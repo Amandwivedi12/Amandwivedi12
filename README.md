@@ -17,9 +17,6 @@ B.Tech CSE Graduate | Full Stack Developer | React.js | Node.js | Java | Spring 
   <a href="https://github.com/Amandwivedi12?tab=repositories">
     <img src="https://img.shields.io/github/stars/Amandwivedi12?label=Stars&style=flat" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/Amandwivedi12">
-    <img src="https://img.shields.io/github/last-commit/Amandwivedi12/Ai-interview-platform?style=flat" alt="Last Commit" />
-  </a>
 </p>
 
 ---
@@ -47,9 +44,11 @@ An AI-powered interview platform designed to simulate real interview experiences
 
 **Tech Stack:** Next.js • React.js • TypeScript • Node.js • Express.js • PostgreSQL • Prisma • AI APIs
 
-🔗 **Live:** https://ai-interview-platform-aman.vercel.app/
+🔗 **Live Demo:**
+https://ai-interview-platform-aman.vercel.app/
 
-🔗 **Repository:** https://github.com/Amandwivedi12/Ai-interview-platform
+🔗 **Repository:**
+https://github.com/Amandwivedi12/Ai-interview-platform
 
 ---
 
@@ -59,7 +58,8 @@ A full-stack MERN application for managing hospital appointments and patient int
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • REST APIs
 
-🔗 **Repository:** https://github.com/Amandwivedi12
+🔗 **Repository:**
+https://github.com/Amandwivedi12
 
 ---
 
@@ -71,12 +71,13 @@ An event management application using QR codes for registration and attendance t
 
 **Highlights:**
 
-* Reduced manual registration effort
 * QR-based event registration
-* Improved attendance tracking
+* Attendance tracking
 * MySQL database integration
+* Reduced manual registration effort
 
-🔗 **Repository:** https://github.com/Amandwivedi12
+🔗 **Repository:**
+https://github.com/Amandwivedi12
 
 ---
 
@@ -86,7 +87,8 @@ A web application for browsing movies and managing movie ticket bookings.
 
 **Tech Stack:** Java • React.js • MySQL
 
-🔗 **Repository:** https://github.com/Amandwivedi12
+🔗 **Repository:**
+https://github.com/Amandwivedi12
 
 ---
 
@@ -128,7 +130,7 @@ A web application for browsing movies and managing movie ticket bookings.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
@@ -141,8 +143,26 @@ A web application for browsing movies and managing movie ticket bookings.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandwivedi12&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandwivedi12&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Amandwivedi12&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandwivedi12&layout=compact&langs_count=8&hide_border=true"
+ height="180"
+ alt="Most Used Languages"
+/>
+
+</p>
+
+<p align="center">
+  <b>📌 Most Used Languages</b>
+</p>
+
+<p align="center">
+  The language distribution above is automatically calculated from my GitHub repositories.
 </p>
 
 ---
@@ -150,58 +170,15 @@ A web application for browsing movies and managing movie ticket bookings.
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amandwivedi12&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Amandwivedi12&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-# 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandwivedi12&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Amandwivedi12" alt="Aman Dwivedi GitHub Contribution Chart"/>
-</p>
-
----
-
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://img.shields.io/github/repos/Amandwivedi12?label=Total%20Repositories&style=for-the-badge" alt="Total Repositories"/>
-
-<img src="https://img.shields.io/github/followers/Amandwivedi12?label=Followers&style=for-the-badge" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/Amandwivedi12?label=Stars%20Received&style=for-the-badge" alt="Stars Received"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amandwivedi12&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amandwivedi12/Amandwivedi12/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
-
-# 💼 Experience & Learning
+## 💼 Experience & Learning
 
 ### 👨‍💻 Full Stack Development
 
@@ -231,21 +208,29 @@ Currently exploring:
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-```text
-Full Stack Development     ████████████████████░░  90%
-React.js / Next.js         ███████████████████░░░  85%
-Node.js / Express.js       ███████████████████░░░  85%
-Java / Spring Boot         █████████████████░░░░░  80%
-TypeScript                 ████████████████░░░░░░  75%
-NestJS                     ███████████████░░░░░░░  70%
-GenAI / AI Applications    ██████████████░░░░░░░░  65%
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-90%25-0e75b6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/React.js%20%2F%20Next.js-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Node.js%20%2F%20Express.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java%20%2F%20Spring%20Boot-80%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NestJS-70%25-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GenAI-65%25-8A2BE2?style=for-the-badge" />
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -269,7 +254,7 @@ GenAI / AI Applications    ██████████████░░░�
 
 ---
 
-# 📄 Resume
+## 📄 Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1upXTRRGFVybJFum3sZxINN6HpOAkVKaP/view?usp=sharing">
