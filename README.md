@@ -140,33 +140,6 @@ https://github.com/Amandwivedi12
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Amandwivedi12&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandwivedi12&layout=compact&langs_count=8&hide_border=true"
- height="180"
- alt="Most Used Languages"
-/>
-
-</p>
-
-<p align="center">
-  <b>📌 Most Used Languages</b>
-</p>
-
-<p align="center">
-  The language distribution above is automatically calculated from my GitHub repositories.
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
