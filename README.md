@@ -1,38 +1,286 @@
 <h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
-<h3 align="center">B.Tech CSE Graduate | React.js | Node.js | Java | Spring Boot | REST APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandwivedi12&label=Profile%20views&color=0e75b6&style=flat" alt="amandwivedi12" /> </p>
+<h3 align="center">
+B.Tech CSE Graduate | Full Stack Developer | React.js | Node.js | Java | Spring Boot
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandwivedi12" alt="amandwivedi12" /></a> </p>
-
-- 🔭 I’m currently working on [Ai-interview-platform](https://github.com/Amandwivedi12/Ai-interview-platform)
-
-- 🌱 I’m currently learning **TypeScript, Next.js, NestJS, GenAI & AI-Powered Applications**
-
-- 👯 I’m looking to collaborate on **Full Stack Web Development, MERN Stack, Java & Spring Boot Projects, and Open Source**
-
-- 🤝 I’m looking for help with **Advanced React, Node.js, Spring Boot, and Scalable Backend Development**
-
-- 💬 Ask me about **Full Stack DEV**
-
-- 📫 How to reach me **ad8328953@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1upXTRRGFVybJFum3sZxINN6HpOAkVKaP/view?usp=sharing](https://drive.google.com/file/d/1upXTRRGFVybJFum3sZxINN6HpOAkVKaP/view?usp=sharing)
-
-- ⚡ Fun fact **I love turning ideas into working web apps 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@amandwivedi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amandwivedi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman021" height="30" width="40" /></a>
-<a href="https://instagram.com/_amandwivedi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amandwivedi13" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Amandwivedi12">
+    <img src="https://komarev.com/ghpvc/?username=amandwivedi12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Amandwivedi12?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amandwivedi12?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Amandwivedi12?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Amandwivedi12?label=Stars&style=flat" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Amandwivedi12">
+    <img src="https://img.shields.io/github/last-commit/Amandwivedi12/Ai-interview-platform?style=flat" alt="Last Commit" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandwivedi12&show_icons=true&locale=en&layout=compact" alt="amandwivedi12" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandwivedi12&show_icons=true&locale=en" alt="amandwivedi12" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi12&" alt="amandwivedi12" /></p>
+I'm a **B.Tech Computer Science & Engineering graduate** passionate about building scalable, user-friendly and production-ready web applications.
+
+* 🔭 Currently working on **AI-powered applications & full-stack projects**
+* 🌱 Currently learning **TypeScript, Next.js, NestJS, GenAI & AI-powered applications**
+* 💻 Interested in **Full Stack Development, MERN Stack & Java Backend Development**
+* 🚀 Experienced with **REST APIs, databases, authentication and backend development**
+* 🤝 Open to collaborating on **Full Stack, MERN, Java/Spring Boot and Open Source projects**
+* 💬 Ask me about **React.js, Node.js, Java, Spring Boot, REST APIs & Full Stack Development**
+* 📫 Reach me at **[ad8328953@gmail.com](mailto:ad8328953@gmail.com)**
+* ⚡ Fun fact: **I love turning ideas into working web applications 🚀**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Interview Platform
+
+An AI-powered interview platform designed to simulate real interview experiences.
+
+**Tech Stack:** Next.js • React.js • TypeScript • Node.js • Express.js • PostgreSQL • Prisma • AI APIs
+
+🔗 **Live:** https://ai-interview-platform-aman.vercel.app/
+
+🔗 **Repository:** https://github.com/Amandwivedi12/Ai-interview-platform
+
+---
+
+### 🏥 Hospital Appointment System
+
+A full-stack MERN application for managing hospital appointments and patient interactions.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • REST APIs
+
+🔗 **Repository:** https://github.com/Amandwivedi12
+
+---
+
+### 🎟️ QR Code Event Management System
+
+An event management application using QR codes for registration and attendance tracking.
+
+**Tech Stack:** Java • MySQL • HTML • CSS • JavaScript
+
+**Highlights:**
+
+* Reduced manual registration effort
+* QR-based event registration
+* Improved attendance tracking
+* MySQL database integration
+
+🔗 **Repository:** https://github.com/Amandwivedi12
+
+---
+
+### 🎬 Online Movie Ticket Booking System
+
+A web application for browsing movies and managing movie ticket bookings.
+
+**Tech Stack:** Java • React.js • MySQL
+
+🔗 **Repository:** https://github.com/Amandwivedi12
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+</p>
+
+### 🧩 Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandwivedi12&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandwivedi12&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amandwivedi12&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandwivedi12&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Amandwivedi12" alt="Aman Dwivedi GitHub Contribution Chart"/>
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/Amandwivedi12?label=Total%20Repositories&style=for-the-badge" alt="Total Repositories"/>
+
+<img src="https://img.shields.io/github/followers/Amandwivedi12?label=Followers&style=for-the-badge" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/Amandwivedi12?label=Stars%20Received&style=for-the-badge" alt="Stars Received"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amandwivedi12&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amandwivedi12/Amandwivedi12/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+---
+
+# 💼 Experience & Learning
+
+### 👨‍💻 Full Stack Development
+
+* Building modern web applications using **React.js, Node.js & Express.js**
+* Developing RESTful APIs and backend services
+* Working with **MongoDB, MySQL & PostgreSQL**
+* Implementing authentication and authorization
+* Building responsive and user-friendly interfaces
+
+### ☕ Java Backend Development
+
+* Core Java & Object-Oriented Programming
+* Spring Boot
+* REST API development
+* SQL & relational databases
+* Backend architecture and API integration
+
+### 🤖 AI & GenAI
+
+Currently exploring:
+
+* Generative AI
+* AI-powered web applications
+* AI interview systems
+* LLM integrations
+* AI-assisted developer workflows
+
+---
+
+# 🎯 Current Focus
+
+```text
+Full Stack Development     ████████████████████░░  90%
+React.js / Next.js         ███████████████████░░░  85%
+Node.js / Express.js       ███████████████████░░░  85%
+Java / Spring Boot         █████████████████░░░░░  80%
+TypeScript                 ████████████████░░░░░░  75%
+NestJS                     ███████████████░░░░░░░  70%
+GenAI / AI Applications    ██████████████░░░░░░░░  65%
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/aman021">
+  <img src="https://img.shields.io/badge/LinkedIn-Aman%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ad8328953@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ad8328953%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Amandwivedi12">
+  <img src="https://img.shields.io/badge/GitHub-Amandwivedi12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://instagram.com/_amandwivedi13">
+  <img src="https://img.shields.io/badge/Instagram-_amandwivedi13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</p>
+
+---
+
+# 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1upXTRRGFVybJFum3sZxINN6HpOAkVKaP/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Build. Learn. Ship. Repeat. 🚀</h3>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
